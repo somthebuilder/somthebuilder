@@ -1,10 +1,10 @@
 # Hi, I'm Shivanshu
 
-I build AI systems that solve real operational problems — systems teams rely on when things break, scale, or become complex.
+I build AI systems that solve real operational problems, systems teams rely on when things break, scale, or become complex.
 
 I enjoy working on difficult problems with people who care about getting the details right.
 
----
+
 
 ## What I Do
 
@@ -12,7 +12,7 @@ I enjoy working on difficult problems with people who care about getting the det
 - Design systems that operate reliably on real-world, messy data  
 - Turn ideas into production-ready products with speed and clarity  
 
----
+
 
 ## What I’m Focused On
 
@@ -20,7 +20,7 @@ I enjoy working on difficult problems with people who care about getting the det
 - Retrieval systems that remain robust under real-world conditions  
 - Human–AI systems that improve decision-making  
 
----
+
 
 ## Selected Work
 
@@ -28,7 +28,7 @@ I enjoy working on difficult problems with people who care about getting the det
 - Designed AI workflows reducing operational effort by 70%  
 - Shipped products used by 100+ enterprise customers  
 
----
+
 
 ## How I Think
 
@@ -39,7 +39,6 @@ I enjoy working on difficult problems with people who care about getting the det
 
 ---
 
-## Let’s Build
 
 ## Let’s Build
 
