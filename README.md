@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Shivanshu 👋
 
-<!--
-**somthebuilder/somthebuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems that solve real problems, the kind teams rely on when things break, scale, or get messy.
 
-Here are some ideas to get you started:
+I like working on difficult problems with people who care about getting it right.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- Build AI products from 0 → 1 → scale  
+- Design systems that handle real-world complexity (not clean datasets)
+- Turn ideas into working products fast  
+
+---
+
+## 🧠 What I’m Focused On
+
+- AI agents that actually *do work*, not just respond  
+- Retrieval systems that don’t fall apart on messy data  
+- Human + AI systems that make better decisions together  
+
+---
+
+## 🧩 Selected Work
+
+- Built conversational systems across structured + unstructured data  
+- Designed AI workflows reducing operational effort by 70%  
+- Shipped products used across 100+ enterprise customers  
+
+---
+
+## ⚙️ How I Think
+
+- Start from the problem, stay close to users  
+- Build fast, test hard, keep what works  
+- Systems > features  
+- Clarity > cleverness  
+
+---
+
+## 🤝 Let’s Build
+
+I’m always up for a conversation, if you're working on something real in AI systems, agents, or products.
